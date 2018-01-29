@@ -14,5 +14,7 @@ Upcoming tasks custom Block configuration to gather data on position in world. p
 
 ## 29/01/2018
 <img width="1600" alt="29012018buildingtab" src="https://user-images.githubusercontent.com/10634519/35525983-041a827a-051e-11e8-879f-ccaa8ad37836.png">
+<img width="1600" alt="29012018modcreated" src="https://user-images.githubusercontent.com/10634519/35526026-2b461a3a-051e-11e8-9686-68c53412fa77.png">
+<img width="1600" alt="29012018modfoundmc" src="https://user-images.githubusercontent.com/10634519/35526032-2d936266-051e-11e8-8e38-90f3c8822b8f.png">
 
 Not a huge ammount of progress towards data gathering moreso maintance and ensuring that the mod is setup correctly with the client and server side settings being the main focus. Along side this I have added a custom creative tab. I hadn't reallized in creative mode in minecraft provides unlimited building blocks. But I could add marker blocks which the agent could look out for such as end building this house block or something. 
