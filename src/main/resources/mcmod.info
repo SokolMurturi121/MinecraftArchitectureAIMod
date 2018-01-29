@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "MinecraftDataGatheringMod",
+  "name": "Minecraft Architecture Data Mod",
+  "description": "A Mod for gathering design data.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Sokol Murturi"],
+  "credits": "The Forge and FML guys, for making forge and fml, wehavecookies56 for tutorials. ",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
