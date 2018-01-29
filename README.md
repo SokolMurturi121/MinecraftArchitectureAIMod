@@ -11,3 +11,8 @@ The aim of this mod will be to develop a system that gathers data about where pe
 established modding client for Minecraft Using Minecraft Forge and Intellij
 created Github repo for pipeline
 Upcoming tasks custom Block configuration to gather data on position in world. possible check event systems
+
+## 29/01/2018
+
+
+Not a huge ammount of progress towards data gathering moreso maintance and ensuring that the mod is setup correctly with the client and server side settings being the main focus. Along side this I have added a custom creative tab. I hadn't reallized in creative mode in minecraft provides unlimited building blocks. But I could add marker blocks which the agent could look out for such as end building this house block or something. 
